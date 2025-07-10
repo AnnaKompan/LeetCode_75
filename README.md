@@ -251,8 +251,8 @@ Bit Manipulation
 - Implement Trie (Prefix Tree)
   Medium
 
-S- earch Suggestions System
-Medium
+- Search Suggestions System
+  Medium
 
 ## Intervals
 
