@@ -1,4 +1,4 @@
-# LeetCode_75 (+2)
+# LeetCode_75 (+4)
 
 # Must-do Problem List
 
@@ -192,6 +192,12 @@
 
 - Search insert position (35)
   Easy
+
+- Find minimum in rotated sorted array (153)
+  Medium
+
+- Single element in a sorted array (540)
+  Medium
 
 - Guess Number Higher or Lower
   Easy
