@@ -5,10 +5,10 @@
 ## Array / String
 
 - Merge Strings Alternately (1768)
-  Easy
+  Easy ✅
 
 - Greatest Common Divisor of Strings (1071)
-  Easy
+  Easy ✅
 
 - Kids With the Greatest Number of Candies
   Easy
@@ -188,16 +188,16 @@
 ## Binary Search
 
 - Find number (704)
-  Easy
+  Easy ✅
 
 - Search insert position (35)
-  Easy
+  Easy ✅
 
 - Find minimum in rotated sorted array (153)
-  Medium
+  Medium ✅
 
 - Single element in a sorted array (540)
-  Medium
+  Medium ✅
 
 - Guess Number Higher or Lower
   Easy
@@ -209,7 +209,7 @@
   Medium
 
 - Koko Eating Bananas
-  Medium
+  Medium ✅
 
 ## Backtracking
 
