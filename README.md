@@ -1,13 +1,13 @@
-# LeetCode_75
+# LeetCode_75 (+2)
 
-Must-do Problem List
+# Must-do Problem List
 
 ## Array / String
 
-- Merge Strings Alternately
+- Merge Strings Alternately (1768)
   Easy
 
-- Greatest Common Divisor of Strings
+- Greatest Common Divisor of Strings (1071)
   Easy
 
 - Kids With the Greatest Number of Candies
@@ -187,6 +187,12 @@ Must-do Problem List
 
 ## Binary Search
 
+- Find number (704)
+  Easy
+
+- Search insert position (35)
+  Easy
+
 - Guess Number Higher or Lower
   Easy
 
@@ -235,7 +241,7 @@ Must-do Problem List
 - Edit Distance
   Medium
 
-Bit Manipulation
+## Bit Manipulation
 
 - Counting Bits
   Easy
