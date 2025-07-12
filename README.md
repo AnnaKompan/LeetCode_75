@@ -11,7 +11,7 @@
   Easy ✅
 
 - Kids With the Greatest Number of Candies
-  Easy
+  Easy ✅
 
 - Can Place Flowers
   Easy
