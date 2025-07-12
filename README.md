@@ -199,6 +199,9 @@
 - Single element in a sorted array (540)
   Medium ✅
 
+- Count Negative Numbers in a Sorted Matrix (1351)
+  Easy ✅
+
 - Guess Number Higher or Lower
   Easy
 
