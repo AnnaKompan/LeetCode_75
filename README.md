@@ -1,4 +1,4 @@
-# LeetCode_75 (+7)
+# LeetCode_75 (+8)
 
 # Must-do Problem List
 
@@ -20,6 +20,9 @@
   Easy ✅
 
 - Richest Customer Wealth (1672)
+  Easy ✅
+
+- Minimum Operations to Make the Array Increasing(1827)
   Easy ✅
 
 - Reverse Vowels of a String
