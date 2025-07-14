@@ -14,7 +14,7 @@
   Easy ✅
 
 - Can Place Flowers
-  Easy
+  Easy ✅
 
 - Reverse Vowels of a String
   Easy
