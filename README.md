@@ -1,4 +1,4 @@
-# LeetCode_75 (+5)
+# LeetCode_75 (+6)
 
 # Must-do Problem List
 
@@ -14,6 +14,9 @@
   Easy ✅
 
 - Can Place Flowers
+  Easy ✅
+
+- Running Sum of 1d Array(1480)
   Easy ✅
 
 - Reverse Vowels of a String
