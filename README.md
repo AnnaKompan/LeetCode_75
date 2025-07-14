@@ -1,4 +1,4 @@
-# LeetCode_75 (+6)
+# LeetCode_75 (+7)
 
 # Must-do Problem List
 
@@ -16,7 +16,10 @@
 - Can Place Flowers
   Easy ✅
 
-- Running Sum of 1d Array(1480)
+- Running Sum of 1d Array (1480)
+  Easy ✅
+
+- Richest Customer Wealth (1672)
   Easy ✅
 
 - Reverse Vowels of a String
