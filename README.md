@@ -212,7 +212,7 @@
   Easy ✅
 
 - Guess Number Higher or Lower
-  Easy
+  Easy ✅
 
 - Successful Pairs of Spells and Potions
   Medium
