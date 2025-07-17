@@ -26,7 +26,7 @@
   Easy ✅
 
 - Reverse Vowels of a String
-  Easy
+  Easy ✅
 
 - Reverse Words in a String
   Medium
