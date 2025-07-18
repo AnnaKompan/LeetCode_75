@@ -1,4 +1,4 @@
-# LeetCode_75 (+8)
+# LeetCode_75 (+9)
 
 # Must-do Problem List
 
@@ -22,7 +22,7 @@
 - Richest Customer Wealth (1672)
   Easy ✅
 
-- Minimum Operations to Make the Array Increasing(1827)
+- Minimum Operations to Make the Array Increasing (1827)
   Easy ✅
 
 - Reverse Vowels of a String
@@ -149,6 +149,11 @@
 
 - Maximum Level Sum of a Binary Tree
   Medium
+
+## Sorting Algorithms
+
+- Remove Duplicates from Sorted Array (27)
+  Easy ✅
 
 ## Binary Search Tree
 
