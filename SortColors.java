@@ -9,20 +9,44 @@ public class SortColors {
         System.out.println("Sorted version of " + Arrays.toString(nums2) + " is " + Arrays.toString(SortCol(nums1)));
     }
 
-    public static int[] SortCol(int[] nums){
-        int n = nums.length;
-        for(int i = 0; i < n; i++){
-            boolean swapped = false;
-            for (int j = 0; j < n - i - 1; j++){
-                if (nums[j + 1] < nums[j]) {
-                    int temp = nums[j];
-                    nums[j] = nums[j+1];
-                    nums[j+1] = temp;
-                    swapped = true;
-                }
+    // public static int[] SortCol(int[] nums){
+    //     int n = nums.length;
+    //     for(int i = 0; i < n; i++){
+    //         boolean swapped = false;
+    //         for (int j = 0; j < n - i - 1; j++){
+    //             if (nums[j + 1] < nums[j]) {
+    //                 int temp = nums[j];
+    //                 nums[j] = nums[j+1];
+    //                 nums[j+1] = temp;
+    //                 swapped = true;
+    //             }
+    //         }
+    //         if (!swapped){
+    //             break;
+    //         }
+    //     }
+    //     return nums;
+    // }
+    public static int[] SortCol(int[] nums) {
+        int low = 0;
+        int mid = 0;
+        int high = nums.length -1;
+
+        while (mid <= high) {
+            if (nums[mid] == 0) {
+                int temp = nums[low];
+                nums[low] = nums[mid];
+                nums[mid] = temp;
+                low += 1;
+                mid += 1;
+            } else if (nums[mid] == 1) {
+                mid += 1;
             }
-            if (!swapped){
-                break;
+            else {
+                int temp = nums[mid];
+                nums[mid] = nums[high];
+                nums[high] = temp;
+                high -= 1;
             }
         }
         return nums;
