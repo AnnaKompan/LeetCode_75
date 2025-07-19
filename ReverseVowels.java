@@ -6,8 +6,8 @@ public class ReverseVowels {
         String s1 = "IceCreAm";
         String s2 = "leetcode";
 
-        System.out.println("Reversed vowels string for " + s1 + "is " + reverseVowels(s1));
-        System.out.println("Reversed vowels string for " + s2 + "is " + reverseVowels(s2));
+        System.out.println("Reversed vowels string for " + s1 + " is " + reverseVowels(s1));
+        System.out.println("Reversed vowels string for " + s2 + " is " + reverseVowels(s2));
 
     }
 

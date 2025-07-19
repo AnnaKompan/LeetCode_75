@@ -155,6 +155,9 @@
 - Remove Duplicates from Sorted Array (27)
   Easy ✅
 
+- Sort Colors (75)
+  Easy ✅
+
 ## Binary Search Tree
 
 - Search in a Binary Search Tree
