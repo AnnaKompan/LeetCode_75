@@ -4,23 +4,23 @@
 
 ## Array / String
 
-1768. [Merge Strings Alternately](./1768_merge_strings.py)
-      Easy ✅
+- [1768. Merge Strings Alternately](./1768_merge_strings.py)
+  Easy ✅
 
-1769. [Greatest Common Divisor of Strings](./1071_greatest_common_divisor_of_strings.py)
-      Easy ✅
+- [1071. Greatest Common Divisor of Strings](./1071_greatest_common_divisor_of_strings.py)
+  Easy ✅
 
-1770. [Kids With the Greatest Number of Candies](./1431_kids_wth_greatest_number_of_candies.py)
-      Easy ✅
+- [1431. Kids With the Greatest Number of Candies](./1431_kids_wth_greatest_number_of_candies.py)
+  Easy ✅
 
-1771. [Can Place Flowers](./CanPlaceFlowers.java)
-      Easy ✅
+- [605. Can Place Flowers](./CanPlaceFlowers.java)
+  Easy ✅
 
-1772. [Reverse Vowels of a String](./ReverseVowels.java)
-      Easy ✅
+- [345. Reverse Vowels of a String](./ReverseVowels.java)
+  Easy ✅
 
-- Reverse Words in a String
-  Medium
+- [151. Reverse Words in a String](./ReverseWords.java)
+  Medium ✅
 
 - Product of Array Except Self
   Medium
@@ -115,8 +115,8 @@
 
 ## Binary Tree - DFS
 
-104. [Maximum Depth of Binary Tree](./maxDepthBinTree.js)
-     Easy
+- [104. Maximum Depth of Binary Tree](./maxDepthBinTree.js)
+  Easy ✅
 
 - Leaf-Similar Trees
   Easy
@@ -187,8 +187,8 @@
 
 ## Binary Search
 
-374. [Guess Number Higher or Lower](./374_GuessNumberHigherOrLower.js)
-     Easy ✅
+- [374. Guess Number Higher or Lower](./374_GuessNumberHigherOrLower.js)
+  Easy ✅
 
 - Successful Pairs of Spells and Potions
   Medium
@@ -196,8 +196,8 @@
 - Find Peak Element
   Medium
 
-875. [Koko Eating Bananas](./875_koko_eating_bananas.js)
-     Medium ✅
+- [875. Koko Eating Bananas](./875_koko_eating_bananas.js)
+  Medium ✅
 
 ## Backtracking
 
